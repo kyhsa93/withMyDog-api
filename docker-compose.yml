@@ -32,3 +32,4 @@ services:
       - .env
     volumes:
       - ~/database/withmydog:/var/lib/mysql
+
